@@ -1,2 +1,2 @@
 # Flaggy
-This is a Java-based game that has been created to assess your knowledge of flags from various countries. 
+This is a Java-based game that has been created to assess your knowledge of flags from various countries. The game is designed as a quiz, with multiple-choice questions aimed at enhancing your general knowledge. The back-end has been completed, the front-end will be finalized shortly. To begin the Flaggy game, please import the Flaggy.zip file into a Java Integrated Development Environment (IDE) and run the control class. The game will start running once this step has been completed.
